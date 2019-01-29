@@ -1,0 +1,17 @@
+# Ignore RStudio files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore data and output folders
+data/
+output/
+
+# Ignore common output formats
+*.hml
+*.pdf
+*.xls*
+*.csv
+*.png
+*.jpg
